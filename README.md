@@ -20,7 +20,7 @@ To achieve our goal, we have the following requirements:
 
 ## Technical Stack Summary
 
-This CI/CD pipeline leverages several key components:
+This CI/CD pipeline leverages several key components:..
 - Google Kubernetes Engine (GKE): Google’s managed Kubernetes service, providing a scalable and reliable platform for deploying containerized applications.
 - Cloud Build: A fully managed continuous integration and continuous delivery platform that allows developers to build, test, and deploy applications on Google Cloud Platform.
 - Cloud Deploy: A service for continuous delivery that automates the deployment of containerized applications to Google Kubernetes Engine and other platforms.
